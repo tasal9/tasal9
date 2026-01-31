@@ -1,68 +1,163 @@
-# Hi, I'm Yaqoob Tasal (tasal9) 👋
+<div align="center">
 
-**Software Engineer | AI & ML Practitioner | Full‑Stack (Python / JavaScript) | Cloud Enthusiast**
+# Yaqoob Tasal
 
-I build practical AI systems and developer tooling — with a focus on clean architecture, experiment velocity, and production robustness.
+### `@tasal9`
+
+**Software Engineer** · **AI & ML Practitioner** · **Full-Stack Developer** · **Cloud Architect**
+
+[![GitHub](https://img.shields.io/badge/GitHub-tasal9-181717?style=for-the-badge&logo=github)](https://github.com/tasal9)
+
+---
+
+*Building intelligent systems with clean architecture, rapid experimentation, and production-grade reliability*
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Engineer** passionate about bridging the gap between cutting-edge AI research and production-ready applications. I specialize in creating modular, scalable systems that empower developers and accelerate innovation.
+
+My work centers on:
+- 🧠 **AI/ML Systems** — End-to-end pipelines, model orchestration, and evaluation frameworks
+- ⚡ **Developer Tooling** — APIs, SDKs, and platforms that make complex technology accessible
+- 🏗️ **Architecture** — Clean, testable, and extensible codebases built for long-term maintainability
+
+---
 
 ## 🚀 Featured Projects
-| Project | What It Is | Highlights |
-|---------|------------|------------|
-| **ZamAI** | Modular AI platform / toolkit | Pluggable pipelines, model experimentation, config-driven workflows |
-| **ZamAI-Zeerak** | Extension / companion to ZamAI | Advanced inference utilities, observability hooks, evaluation harness |
 
-> Ask me about designing maintainable ML experimentation layers or bridging research-to-production.
+<table>
+<tr>
+<td width="50%">
 
-## 🧠 Core Skill Areas
-- **Languages:** Python, JavaScript (TypeScript-ready)
-- **AI / ML:** Modeling workflows, evaluation pipelines, prompt/tool orchestration
-- **Web Dev:** API design (FastAPI/Express), modular frontends, integration patterns
-- **Cloud & Ops:** Containerization, reproducible environments, deployment hygiene
-- **Architecture Focus:** Separation of concerns, configuration ergonomics, testability
+### 🤖 ZamAI
+**Modular AI Platform & Toolkit**
 
-## 🧩 Engineering Principles I Value
-- Data & model version traceability
-- Explicit contracts over "magic"
-- Small, composable abstractions
-- Metrics + observability first
-- Automation over repetition
+A unified layer for model orchestration, evaluation, and seamless app integration.
+
+- ✅ Pluggable, composable pipelines
+- ✅ Config-driven experimentation
+- ✅ Production-ready workflows
+- ✅ Extensible plugin architecture
+
+</td>
+<td width="50%">
+
+### 🔬 ZamAI-Zeerak
+**Intelligence & Analytics Extension**
+
+Advanced companion module for monitoring, benchmarking, and intelligent retrieval.
+
+- ✅ Inference optimization utilities
+- ✅ Real-time observability hooks
+- ✅ Regression evaluation harness
+- ✅ Metadata enrichment layer
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Expertise
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+
+`Python` `JavaScript` `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td><b>AI / ML</b></td>
+<td>
+
+Model pipelines • Prompt engineering • Tool orchestration • Evaluation systems
+
+</td>
+</tr>
+<tr>
+<td><b>Web & APIs</b></td>
+<td>
+
+FastAPI • Express.js • REST/GraphQL • Microservices architecture
+
+</td>
+</tr>
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>
+
+Docker • CI/CD • Infrastructure as Code • Reproducible environments
+
+</td>
+</tr>
+<tr>
+<td><b>Architecture</b></td>
+<td>
+
+Separation of concerns • Dependency injection • Configuration ergonomics • Testability
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Engineering Philosophy
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   "Build systems that are explicit, composable, and observable."        │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+| Principle | Why It Matters |
+|-----------|----------------|
+| **Traceability** | Every model version, data snapshot, and experiment is reproducible |
+| **Explicit Contracts** | Clear interfaces over hidden "magic" that breaks at scale |
+| **Composability** | Small, focused abstractions that combine into powerful systems |
+| **Observability First** | Metrics, logging, and tracing built-in from day one |
+| **Automation** | Eliminate repetition; invest in tooling that multiplies effort |
+
+---
 
 ## 🔭 Current Focus
-- Enhancing ZamAI’s extensibility surface
-- Improving evaluation + feedback loops in AI-assisted apps
-- Exploring lightweight agentic patterns without over-engineering
 
-## 📈 Potential Collaboration Ideas
-| Area | Example |
-|------|---------|
-| ML Platform | Unified config & experiment DSL |
-| Evaluation | Automated regression scoring for model updates |
-| Tooling | Dev-friendly SDKs for AI features |
-| Observability | Latency / quality dashboards for inferencing |
-
-## 📬 Reach Out
-- GitHub: https://github.com/tasal9 (primary hub)
-- (Add more: LinkedIn / X / Email if you want—just tell me and I’ll slot them in)
+- 📦 **Expanding ZamAI's extensibility** — Plugin APIs, adapter patterns, and community-driven modules
+- 🔄 **Evaluation & Feedback Loops** — Automated quality gates and regression detection for AI systems
+- 🤝 **Agentic Patterns** — Exploring practical, lightweight approaches to autonomous AI workflows
 
 ---
 
-### ✨ Quick Stats (optional badges)
-<!-- You can enable these later; placeholders kept minimal -->
-<!-- Streaks / Languages / Repo stats badges could go here -->
+## 🤝 Collaboration Opportunities
+
+I'm open to collaborating on:
+
+| Area | Example Projects |
+|------|------------------|
+| **ML Platforms** | Unified experiment DSLs, model registries |
+| **Evaluation** | Automated scoring, A/B testing for model updates |
+| **Developer Tooling** | SDKs, CLIs, and APIs for AI integration |
+| **Observability** | Latency dashboards, quality monitoring for inference |
 
 ---
 
-### 🗂️ Pin-Worthy Repos (after pushing / naming them)
-```
-ZamAI
-ZamAI-Zeerak
-(any deployment or examples repo)
-```
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-tasal9-181717?style=flat-square&logo=github)](https://github.com/tasal9)
 
 ---
 
-If you’d like:
-1. I can add shields, workflow badges, or a dynamic “recent activity” section.
-2. Provide a CONTRIBUTING.md template for external collaborators on ZamAI.
-3. Generate architecture diagrams (Mermaid) for ZamAI once you share structure.
+**💬 Ask me about:** *Designing maintainable ML experimentation layers, bridging research-to-production, or building developer-friendly AI platforms.*
 
-Let me know and I’ll iterate.
+</div>
