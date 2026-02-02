@@ -73,7 +73,7 @@ The companion module to ZamAI, focused on analytics, monitoring, and intelligent
 Interested in contributing? Here's how:
 
 1. **Start Small:** Pick a "good first issue" from the repositories
-2. **Learn the Codebase:** Read the [Contributing Guide](CONTRIBUTING)
+2. **Learn the Codebase:** Read the [Contributing Guide](CONTRIBUTING.md)
 3. **Engage:** Share feedback, suggest features, or report bugs
 4. **Build:** Create plugins or integrations
 
