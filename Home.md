@@ -11,16 +11,16 @@
 ## 📚 Quick Navigation
 
 ### About Me
-- [📖 Introduction](Introduction) — Learn more about my background, philosophy, and journey
+- [📖 Introduction](Introduction.md) — Learn more about my background, philosophy, and journey
 
 ### Projects & Work
-- [🚀 Projects](Projects) — Featured projects and current work
-- [📝 Content](Content) — Technical writing and insights
-- [🔗 Resources](Resources) — Tools, technologies, and learning resources
+- [🚀 Projects](Projects.md) — Featured projects and current work
+- [📝 Content](Content.md) — Technical writing and insights
+- [🔗 Resources](Resources.md) — Tools, technologies, and learning resources
 
 ### For Contributors
-- [🤝 Contributing Guide](CONTRIBUTING) — How to contribute to ZamAI projects
-- [❓ FAQ](FAQ) — Frequently asked questions
+- [🤝 Contributing Guide](CONTRIBUTING.md) — How to contribute to ZamAI projects
+- [❓ FAQ](FAQ.md) — Frequently asked questions
 
 ---
 
