@@ -30,7 +30,7 @@ ZamAI-Zeerak is a companion module to ZamAI that provides:
 - Metadata enrichment capabilities
 
 ### How can I contribute to ZamAI?
-Check out the [Contributing Guide](CONTRIBUTING) for detailed instructions on:
+Check out the [Contributing Guide](CONTRIBUTING.md) for detailed instructions on:
 - Setting up the development environment
 - Making your first contribution
 - Code standards and review process
