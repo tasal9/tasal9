@@ -1,12 +1,12 @@
 # Projects & Achievements
 
-## 🏆 Featured Projects
+## 🏆 Featured Projects (Repo-Based)
 
 ### ZamAI — Modular AI Platform
 
-**Status:** Active Development 🚧
-
-ZamAI is my flagship project — a comprehensive AI platform designed to simplify the journey from experimentation to production.
+- **Repo:** (add link once available)
+- **Status:** Active Development 🚧
+- **Summary:** ZamAI is my flagship project — a comprehensive AI platform designed to simplify the journey from experimentation to production.
 
 #### Key Features
 
@@ -28,9 +28,9 @@ ZamAI is my flagship project — a comprehensive AI platform designed to simplif
 
 ### ZamAI-Zeerak — Intelligence Extension
 
-**Status:** Active Development 🚧
-
-The companion module to ZamAI, focused on analytics, monitoring, and intelligent retrieval.
+- **Repo:** (add link once available)
+- **Status:** Active Development 🚧
+- **Summary:** The companion module to ZamAI, focused on analytics, monitoring, and intelligent retrieval.
 
 #### Key Features
 
@@ -43,28 +43,76 @@ The companion module to ZamAI, focused on analytics, monitoring, and intelligent
 
 ---
 
-## 🎯 Current Focus Areas
+## 📌 My repositories (curated)
 
-1. **Expanding ZamAI's Extensibility**
-   - Plugin API design
-   - Adapter patterns for third-party integrations
-   - Community contribution framework
+> Notes: Many repositories are private; I’m listing them with the details you provided (language + short description when available).
 
-2. **Evaluation & Feedback Loops**
-   - Automated quality gates
-   - Regression detection for model updates
-   - A/B testing infrastructure
+### 🧠 ZamAI Ecosystem / Pashto AI
 
-3. **Agentic Patterns**
-   - Lightweight autonomous workflows
-   - Tool orchestration primitives
-   - Multi-model coordination
+- **tasal9/ZamZeerak** (Private) — TypeScript  
+  Chatbot app under the ZamAI Pashto project.
+- **tasal9/ZamAI-App** (Private) — JavaScript  
+  ZamAI application that provides AI in Pashto.
+- **tasal9/Pashto-Processing-pipeline** (Private) — Python  
+  Main repository for processing Pashto texts.
+- **tasal9/ZamAI-Pashto-Keyboard** (Private) — JavaScript  
+  Pashto-sensitive keyboard.
+- **tasal9/ZamAI-Cultural-Hub** (Private) — TypeScript  
+  Community hub for Pashto language speakers.
+- **tasal9/ZamStudio-AI-Code-Editor** (Private) — TypeScript
+- **tasal9/AI-Mufti** (Private) — TypeScript
+- **tasal9/AI-Study-Buddy** (Private) — JavaScript
+- **tasal9/AI-Image-Checker** (Private) — Python
+- **tasal9/AI-Customer-Support-Chatbot** (Private) — TypeScript
+- **tasal9/AI-Recipe-** (Private) — Dart
+- **tasal9/AI-Resume-** (Private) — Python
+- **tasal9/AI-Fake-New-** (Private) — Python
 
----
+### 🏥 Health / Pharma
 
-## 📈 Metrics & Milestones
+- **tasal9/ZamPharma** — TypeScript
+- **tasal9/Pharmacy-Inventory-System** (Private) — TypeScript
+- **tasal9/ZamAI-Hospital-Management-V1** (Private) — Python
+- **tasal9/Hospital-Data-Management-Dashboard-General** (Private) — TypeScript
 
-*Coming soon — I'll be tracking project metrics as the ecosystem matures.*
+### 👥 HR / Office / Finance
+
+- **tasal9/zamhrmanagement** (Private) — TypeScript
+- **tasal9/HRMS-NEW** (Private) — TypeScript  
+  HR management system created around Afghan HR workflows.
+- **tasal9/Office-Automation-Dashboard** (Private) — TypeScript
+- **tasal9/Invoicesgenerator** (Private) — TypeScript
+- **tasal9/Zaminvooice** (Private)
+- **tasal9/ZamFinance** (Private) — TypeScript
+
+### 🏫 Education / School
+
+- **tasal9/ZamMadrasa** (Private) — TypeScript
+- **tasal9/ZamAI-School-Management** (Private) — TypeScript
+- **tasal9/ZamAI-Attendance** (Private) — TypeScript
+- **tasal9/ZamAI-Student-App** (Private) — TypeScript
+- **tasal9/AI-Learning-App-for-Afghan-Girls** (Private) — TypeScript
+
+### 🏢 ARCS / ERP
+
+- **tasal9/arcs-amlaakv2** (Private) — TypeScript
+- **tasal9/arcs-redesigned** (Private) — TypeScript
+- **tasal9/ARCS-INVENTORY** (Private) — JavaScript
+- **tasal9/ARCS-OverTimeSystem** (Private) — JavaScript
+- **tasal9/Map-ERP-Modules-to-Context** (Private) — TypeScript
+
+### 💼 Portfolio / Misc
+
+- **tasal9/Portfolio-Website** (Private) — TypeScript  
+  Portfolio website to showcase everything you do and have done.
+- **tasal9/zamlancer** (Private) — TypeScript
+- **tasal9/CodeTribe-App** (Private) — TypeScript
+- **tasal9/tamusk-diet-app** (Private) — TypeScript
+- **tasal9/keyman_keyboard** (Private) — HTML
+- **tasal9/ZamType-Typing-Excercise** (Private) — TypeScript
+- **tasal9/ZamMashoom** (Private) — Dart
+- **tasal9/ZamSaraf** (Private) — TypeScript
+- **tasal9/ZamKhwanzai** (Private) — TypeScript
 
 ---
 
@@ -72,9 +120,9 @@ The companion module to ZamAI, focused on analytics, monitoring, and intelligent
 
 Interested in contributing? Here's how:
 
-1. **Start Small:** Pick a "good first issue" from the repositories
-2. **Learn the Codebase:** Read the [Contributing Guide](CONTRIBUTING.md)
-3. **Engage:** Share feedback, suggest features, or report bugs
+1. **Start Small:** Pick a "good first issue" from the repositories  
+2. **Learn the Codebase:** Read the [Contributing Guide](CONTRIBUTING.md)  
+3. **Engage:** Share feedback, suggest features, or report bugs  
 4. **Build:** Create plugins or integrations
 
 ---
