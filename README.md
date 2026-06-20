@@ -1,16 +1,18 @@
+Here is a cleaner, stronger, more professional GitHub profile README with better positioning for ZamAI, Zeerak, and your AI/full-stack identity.
+
 <div align="center">
 
-# Yaqoob Tasal
+# Hi, I'm Yaqoob Tasal 👋
 
 ### `@tasal9`
 
-**Software Engineer** · **AI & ML Practitioner** · **Full-Stack Developer** · **Cloud Architect**
+**Software Engineer** · **AI/ML Builder** · **Full-Stack Developer** · **Cloud & Backend Systems**
 
 [![GitHub](https://img.shields.io/badge/GitHub-tasal9-181717?style=for-the-badge&logo=github)](https://github.com/tasal9)
 
 ---
 
-*Building intelligent systems with clean architecture, rapid experimentation, and production-grade reliability*
+### Building AI systems, developer tools, and multilingual software for real-world workflows.
 
 </div>
 
@@ -18,43 +20,69 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** passionate about bridging the gap between cutting-edge AI research and production-ready applications. I specialize in creating modular, scalable systems that empower developers and accelerate innovation.
+I'm a **Software Engineer** focused on building practical AI-powered systems that connect modern machine learning with real production software.
 
-My work centers on:
-- 🧠 **AI/ML Systems** — End-to-end pipelines, model orchestration, and evaluation frameworks
-- ⚡ **Developer Tooling** — APIs, SDKs, and platforms that make complex technology accessible
-- 🏗️ **Architecture** — Clean, testable, and extensible codebases built for long-term maintainability
+My work is centered around **ZamAI**, an AI and software ecosystem designed for multilingual users, especially Pashto, Dari, and English workflows. I build tools that are modular, scalable, and useful for real organizations such as schools, clinics, finance teams, businesses, and public institutions.
+
+I care about clean architecture, fast experimentation, and systems that can move from idea to production without becoming messy or hard to maintain.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I Build
+
+- 🧠 **AI/ML Systems**  
+  Model pipelines, AI assistants, evaluation flows, prompt systems, and tool orchestration.
+
+- 🌐 **Full-Stack Applications**  
+  Frontend, backend, APIs, dashboards, admin panels, and production-ready web apps.
+
+- ⚙️ **Developer Tools**  
+  SDKs, APIs, reusable modules, automation tools, and internal platforms.
+
+- ☁️ **Cloud & Backend Infrastructure**  
+  Dockerized apps, deployment workflows, scalable APIs, and server-side architecture.
+
+- 🗣️ **Multilingual AI Products**  
+  Pashto, Dari, and English AI tools designed for local-language access and real-world use.
+
+---
+
+## 🌟 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🤖 ZamAI
-**Modular AI Platform & Toolkit**
 
-A unified layer for model orchestration, evaluation, and seamless app integration.
+**Multilingual AI & Software Ecosystem**
 
-- ✅ Pluggable, composable pipelines
-- ✅ Config-driven experimentation
-- ✅ Production-ready workflows
-- ✅ Extensible plugin architecture
+ZamAI is a product ecosystem focused on building AI-powered tools for Afghan and multilingual organizations.
+
+**Focus areas:**
+
+- Pashto, Dari, and English AI workflows
+- AI assistants and automation tools
+- Software for healthcare, education, finance, and operations
+- APIs and modular AI infrastructure
+- Production-ready business applications
 
 </td>
 <td width="50%">
 
-### 🔬 ZamAI-Zeerak
-**Intelligence & Analytics Extension**
+### 🧠 Zeerak / ځېرک
 
-Advanced companion module for monitoring, benchmarking, and intelligent retrieval.
+**AI Assistant by ZamAI**
 
-- ✅ Inference optimization utilities
-- ✅ Real-time observability hooks
-- ✅ Regression evaluation harness
-- ✅ Metadata enrichment layer
+Zeerak is an intelligent multilingual assistant designed to help users communicate, learn, work, and automate tasks in Pashto, Dari, and English.
+
+**Core ideas:**
+
+- Local-language AI assistance
+- Chat, voice, and workflow support
+- Practical use in schools, clinics, and businesses
+- Future-ready assistant layer for ZamAI products
+- Human-friendly AI for everyday users
 
 </td>
 </tr>
@@ -62,46 +90,59 @@ Advanced companion module for monitoring, benchmarking, and intelligent retrieva
 
 ---
 
-## 🛠️ Technical Expertise
+## 🛠️ Technical Skills
 
 <table>
 <tr>
 <td><b>Languages</b></td>
 <td>
 
-`Python` `JavaScript` `TypeScript`
+`Python` · `JavaScript` · `TypeScript`
 
 </td>
 </tr>
+
+<tr>
+<td><b>Backend</b></td>
+<td>
+
+`FastAPI` · `Express.js` · `REST APIs` · `GraphQL` · `Microservices`
+
+</td>
+</tr>
+
+<tr>
+<td><b>Frontend</b></td>
+<td>
+
+`React` · `Next.js` · `HTML` · `CSS` · `Tailwind CSS`
+
+</td>
+</tr>
+
 <tr>
 <td><b>AI / ML</b></td>
 <td>
 
-Model pipelines • Prompt engineering • Tool orchestration • Evaluation systems
+LLM apps · Prompt engineering · Model pipelines · Evaluation systems · AI agents
 
 </td>
 </tr>
-<tr>
-<td><b>Web & APIs</b></td>
-<td>
 
-FastAPI • Express.js • REST/GraphQL • Microservices architecture
-
-</td>
-</tr>
 <tr>
 <td><b>Cloud & DevOps</b></td>
 <td>
 
-Docker • CI/CD • Infrastructure as Code • Reproducible environments
+`Docker` · `CI/CD` · VPS deployment · Linux servers · Reproducible environments
 
 </td>
 </tr>
+
 <tr>
 <td><b>Architecture</b></td>
 <td>
 
-Separation of concerns • Dependency injection • Configuration ergonomics • Testability
+Clean architecture · Modular design · Dependency injection · Testable systems
 
 </td>
 </tr>
@@ -111,53 +152,52 @@ Separation of concerns • Dependency injection • Configuration ergonomics •
 
 ## 💡 Engineering Philosophy
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   "Build systems that are explicit, composable, and observable."        │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+```txt
+Build systems that are simple to understand,
+easy to extend,
+and reliable enough for real users.
 
-| Principle | Why It Matters |
-|-----------|----------------|
-| **Traceability** | Every model version, data snapshot, and experiment is reproducible |
-| **Explicit Contracts** | Clear interfaces over hidden "magic" that breaks at scale |
-| **Composability** | Small, focused abstractions that combine into powerful systems |
-| **Observability First** | Metrics, logging, and tracing built-in from day one |
-| **Automation** | Eliminate repetition; invest in tooling that multiplies effort |
+Principle| Why It Matters
+Clarity First| Code should be easy to understand before it becomes powerful
+Modular Design| Small, focused parts are easier to test, replace, and improve
+Real-World Use| AI should solve actual problems, not just look impressive in demos
+Observability| Logs, metrics, and feedback loops make systems production-ready
+Automation| Repeated work should become a tool, script, or workflow
 
 ---
 
-## 🔭 Current Focus
+🔭 Current Focus
 
-- 📦 **Expanding ZamAI's extensibility** — Plugin APIs, adapter patterns, and community-driven modules
-- 🔄 **Evaluation & Feedback Loops** — Automated quality gates and regression detection for AI systems
-- 🤝 **Agentic Patterns** — Exploring practical, lightweight approaches to autonomous AI workflows
-
----
-
-## 🤝 Collaboration Opportunities
-
-I'm open to collaborating on:
-
-| Area | Example Projects |
-|------|------------------|
-| **ML Platforms** | Unified experiment DSLs, model registries |
-| **Evaluation** | Automated scoring, A/B testing for model updates |
-| **Developer Tooling** | SDKs, CLIs, and APIs for AI integration |
-| **Observability** | Latency dashboards, quality monitoring for inference |
+- 🤖 Building and improving ZamAI
+- 🧠 Developing Zeerak / ځېرک as a multilingual AI assistant
+- 🗣️ Creating better AI support for Pashto, Dari, and English
+- 🏥 Exploring AI workflows for healthcare, education, finance, and business operations
+- ⚙️ Designing reusable AI infrastructure, APIs, and backend systems
 
 ---
 
-## 📫 Connect With Me
+🤝 Open to Collaboration
 
-<div align="center">
+I'm interested in working on:
 
-[![GitHub](https://img.shields.io/badge/GitHub-tasal9-181717?style=flat-square&logo=github)](https://github.com/tasal9)
+Area| Example Projects
+AI Assistants| Multilingual chatbots, workflow assistants, voice AI
+ML Platforms| Model orchestration, evaluation tools, experiment tracking
+Developer Tools| APIs, SDKs, dashboards, CLI tools
+Business Software| HR, attendance, inventory, finance, healthcare, and education systems
+Local-Language AI| Pashto, Dari, and multilingual AI applications
 
 ---
 
-**💬 Ask me about:** *Designing maintainable ML experimentation layers, bridging research-to-production, or building developer-friendly AI platforms.*
+📫 Connect With Me
+
+<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-tasal9-181717?style=flat-square&logo=github)" (https://github.com/tasal9)
+
+---
+
+💬 Ask me about
+
+AI assistants, multilingual AI, backend architecture, full-stack development, or building production-ready software products.
 
 </div>
+```
